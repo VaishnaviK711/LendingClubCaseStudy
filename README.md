@@ -41,9 +41,12 @@ To address these challenges, we have access to historical data on past loan appl
 ## Acknowledgements
 - EDA course material from upGrads curriculum at [https://learn.upgrad.com/](https://learn.upgrad.com/).
 
+## Team
+[Vaishnavi_Kulkarni](https://www.linkedin.com/in/vaishnavi-kulkarni-4ab628b7/)
+[Ankush_Mehra](https://www.linkedin.com/in/ankush-mehra-770772223/)
 
 ## Contact
-Created by [@VaishnaviK711] and [@ankmehra92]- feel free to contact us!
+Created by [@VaishnaviK711](https://github.com/VaishnaviK711) and [@ankmehra92](https://github.com/ankmehra92) - feel free to contact us!
 
 
 <!-- Optional -->
