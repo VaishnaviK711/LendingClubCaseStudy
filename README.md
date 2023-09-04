@@ -43,6 +43,7 @@ To address these challenges, we have access to historical data on past loan appl
 
 ## Team
 [Vaishnavi_Kulkarni](https://www.linkedin.com/in/vaishnavi-kulkarni-4ab628b7/)
+
 [Ankush_Mehra](https://www.linkedin.com/in/ankush-mehra-770772223/)
 
 ## Contact
